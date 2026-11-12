@@ -1,0 +1,20 @@
+{
+  "name": "ar-space-cards",
+  "version": "1.0.0",
+  "description": "AR space-learning cards for children in hospital care (Space Store India)",
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "vendor": "node tools/vendor.mjs",
+    "build": "node tools/build.mjs"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "js-aruco2": "^2.0.0",
+    "qrcode-generator": "^2.0.4",
+    "three": "^0.170.0",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
+  },
+  "private": true,
+  "type": "module"
+}
