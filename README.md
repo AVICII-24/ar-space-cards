@@ -29,7 +29,6 @@ The camera only works on `localhost` or over HTTPS, so to use a real tablet the 
 
 ## Documents
 
-- [docs/STARTUP_STRATEGY.md](docs/STARTUP_STRATEGY.md): recommended changes to make this fundable
 - [docs/TEACHER_GUIDE.md](docs/TEACHER_GUIDE.md): for hospital teachers and volunteers
 - [docs/LESSON_PLANS.md](docs/LESSON_PLANS.md): a 15-minute plan per card
 - [docs/CONTENT_SOURCES.md](docs/CONTENT_SOURCES.md): fact-review checklist and licences
